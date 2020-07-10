@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Project-Easy_Transport</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_settings_text">Account Settings</string>
+    <string name="acion_Logut_text" />
+    <string name="action_Logout_text">LOGOUT</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029616701222",
+    "firebase_url": "https://myproject-easytransport.firebaseio.com",
+    "project_id": "myproject-easytransport",
+    "storage_bucket": "myproject-easytransport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029616701222:android:5dacca2ca8288401febbe7",
+        "android_client_info": {
+          "package_name": "com.project.my_project_easy_transport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029616701222-75turh2jmssktafuejqcjsvb9pnrvcah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.my_project_easy_transport",
+            "certificate_hash": "d6ccd69e7ebf8f3cd2faf78a9db80ea19ef96d32"
+          }
+        },
+        {
+          "client_id": "1029616701222-p9cpft89sh789r0tqi15q9eqdnb76s83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTm5kQ1MTDD2NG2f86ExEOS8Huzyv1igc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029616701222-p9cpft89sh789r0tqi15q9eqdnb76s83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
